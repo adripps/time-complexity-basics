@@ -1,0 +1,10 @@
+1. A function that estimates the amount of time it takes for an algorithm to run
+2. Runtime is the physical amount of time it take for an algorithm to run
+3. Runtime algorithms are calculated by adding up how many times the algorithms lines of code will run based on its inputs, then simplifying the expression to the largest term and dropping constants.
+4. The six types of growth rates mentioned above in order from most to least efficient are: Constant Growth Rate, Logarithmic Growth Rate, Linear Growth Rate, Log-Linear Growth Rate, Quadratic Growth Rate, and Exponential Growth Rate.
+Cubic Growth Rate was not covered, but would be placed after Quadratic Growth rate in terms of efficiency.
+5. A real life situation that shows Linear Growth is the amount of money spent on a phone plan. The amount spent goes up monthly at the constant rate of the agreed upon monthly charge.
+6. 0(n)
+7. 0(n^2)
+8. 0(1.6180)^n
+9. Number 6
